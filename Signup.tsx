@@ -87,7 +87,7 @@ const theme = createMuiTheme({
     },
 });
 
-export default function SignIn() {
+export default function SignUp() {
     const classes = useStyles();
 
     return (
